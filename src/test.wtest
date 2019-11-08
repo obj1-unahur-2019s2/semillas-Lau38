@@ -1,0 +1,9 @@
+import semillas.*
+
+
+
+test "testX" {
+
+	assert.that(true)
+
+}
